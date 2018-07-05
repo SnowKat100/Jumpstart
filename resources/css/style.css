@@ -186,4 +186,9 @@ h4, h5 {
   h1 {
     font-size: 4rem;
   }
+
+  h2 {
+      font-size: 1.25rem;
+  }
+
 }
